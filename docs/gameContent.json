@@ -11,7 +11,7 @@
           { "a": "Plant", "image": "images/15.png", "imageAlt": "An image of a plant" },
           { "a": "Insect", "image": "images/16.png", "imageAlt": "An image of an insect" },
           { "a": "Reptile", "image": "images/17.png", "imageAlt": "An image of a reptile" },
-          { "a": "Mammal", "image": "images/18.png", "imageAlt": "An image of a mammal" }
+          { "a": "marine", "image": "images/18.png", "imageAlt": "An image of a mammal" }
         ]
       },
       "level2": {
